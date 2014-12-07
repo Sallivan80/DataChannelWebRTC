@@ -1,0 +1,19 @@
+p#label-start-button{
+	text-align:center;
+}
+
+button#start-button{
+	background-color:#337ab7;
+	border-color:#337ab7;
+}
+
+p#label-send-button{
+	text-align:right;
+	margin-top:15px;
+	
+}
+
+button#send-button{
+	background-color:#5cb85c;
+	border-color:#5cb85c;
+}
