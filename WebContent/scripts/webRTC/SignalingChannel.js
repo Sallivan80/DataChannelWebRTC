@@ -2,7 +2,7 @@ function SignalingChannel(){
 		
 		console.log('Create Signaling Channel:' +window.location.host);
 		
-	    var connection = new WebSocket("ws://"+window.location.host + "/MultiDataChannelWebRTC/SignalingServer");
+	    var connection = new WebSocket("ws://"+window.location.host + "/ProgettoTesiGit/SignalingServer");
 	    
 	    connection.onopen = onSignalingChannelOpen;
 
